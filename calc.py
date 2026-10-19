@@ -11,3 +11,6 @@ class Calculator:
         return a*pow(a,b-1)
     def oi(self):
         print('oi')
+
+    def sub(self, a, b):
+        return a-b
