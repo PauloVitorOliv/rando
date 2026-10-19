@@ -9,3 +9,5 @@ class Calculator:
         if b == 1:
             return a
         return a*pow(a,b-1)
+    def oi(self):
+        print('oi')
